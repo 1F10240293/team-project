@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(224, 247, 49);
+    background-color: crimson;
+    text-align: center;
+}
+
+body{
+    background-image: url('https://thumb.ac-illust.com/88/8809b669a5b76ec98641e9402957f590_t.jpeg');
+}
+
+#recipi {
+    margin: 10px;
+    padding: 10px;
+    backdrop-filter: blur(10px);
+}
